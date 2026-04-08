@@ -1,0 +1,89 @@
+#KEY	Hap1 stats_2	Hap2 stats_2
+# contigs	0	0
+# gaps	0	0
+# paths	0	0
+# segments	17	16
+# soft-masked bases	0	0
+Average contig length	nan	nan
+Average segment length	715352.24	706536.38
+Base composition (A:C:G:T)	0:0:0:0	0:0:0:0
+Contig L10	0	0
+Contig L100	0	0
+Contig L20	0	0
+Contig L30	0	0
+Contig L40	0	0
+Contig L50	0	0
+Contig L50	0	0
+Contig L50	0	0
+Contig L50	0	0
+Contig L60	0	0
+Contig L70	0	0
+Contig L80	0	0
+Contig L90	0	0
+Contig LG10	0	0
+Contig LG100	0	0
+Contig LG20	0	0
+Contig LG30	0	0
+Contig LG40	0	0
+Contig LG50	0	0
+Contig LG50	0	0
+Contig LG50	0	0
+Contig LG50	0	0
+Contig LG60	0	0
+Contig LG70	0	0
+Contig LG80	0	0
+Contig LG90	0	0
+Contig N10	0	0
+Contig N100	0	0
+Contig N20	0	0
+Contig N30	0	0
+Contig N40	0	0
+Contig N50	0	0
+Contig N50	0	0
+Contig N50	0	0
+Contig N50	0	0
+Contig N60	0	0
+Contig N70	0	0
+Contig N80	0	0
+Contig N90	0	0
+Contig NG10	0	0
+Contig NG100	0	0
+Contig NG20	0	0
+Contig NG30	0	0
+Contig NG40	0	0
+Contig NG50	0	0
+Contig NG50	0	0
+Contig NG50	0	0
+Contig NG50	0	0
+Contig NG60	0	0
+Contig NG70	0	0
+Contig NG80	0	0
+Contig NG90	0	0
+Contig auN	0.00	0.00
+Contig auNG	0.00	0.00
+Expected genome size	11747160	11747160
+GC content %	nan	nan
+Gap L10	0	0
+Gap L100	0	0
+Gap L20	0	0
+Gap L30	0	0
+Gap L40	0	0
+Gap L50	0	0
+Gap L60	0	0
+Gap L70	0	0
+Gap L80	0	0
+Gap L90	0	0
+Gap N10	0	0
+Gap N100	0	0
+Gap N20	0	0
+Gap N30	0	0
+Gap N40	0	0
+Gap N50	0	0
+Gap N60	0	0
+Gap N70	0	0
+Gap N80	0	0
+Gap N90	0	0
+Largest contig	0	0
+Smallest contig	0	0
+Total contig length	0	0
+Total segment length	12160988	11304582

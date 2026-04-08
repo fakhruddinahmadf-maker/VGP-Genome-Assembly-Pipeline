@@ -1,0 +1,22 @@
+# All tools were run on Galaxy platform (usegalaxy.org)
+# No local installation required to reproduce using Galaxy workflow
+
+# Tools and versions used in this pipeline:
+Cutadapt==4.4
+Meryl==1.3
+GenomeScope2==2.0
+Hifiasm==0.19.8
+gfastats==1.3.6
+BUSCO==5.5.0
+Merqury==1.3
+Bionano_Hybrid_Scaffold==3.7.0
+BWA-MEM2==2.2.1
+YaHS==1.2a.2
+PretextMap==0.1.9
+Pretext_Snapshot==0.0.3
+
+# To reproduce this analysis:
+# 1. Create a Galaxy account at https://usegalaxy.org
+# 2. Import workflow/VGP_assembly.ga
+# 3. Upload input data from Zenodo (see README.md)
+# 4. Run the workflow

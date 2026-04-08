@@ -1,0 +1,26 @@
+# Large sequencing data files
+*.fastq
+*.fastq.gz
+*.fasta
+*.fa
+*.bam
+*.bai
+*.cmap
+
+# Compressed files
+*.zip
+*.tar.gz
+*.gz
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# System files
+.DS_Store
+desktop.ini
+Thumbs.db
+
+# Galaxy downloaded zip folders
+*_collection/
